@@ -38,6 +38,11 @@ body{
   text-transform: capitalize;
 }
 
+.nav_icon img {
+  height: 40px !important;
+  padding: 40px;
+}
+
 .home span{
   font-weight: bold;
 }
@@ -52,13 +57,13 @@ body{
 }
 
 #happy_party{
-  width: 31%;
+  width: 25%;
 }
 
 #breakfast,
 #lunch,
 #dinner{
-  width: 23%;
+  width: 25%;
 }
 
 #breakfast,
@@ -196,7 +201,7 @@ text_block h4{
   margin-top: 50px;
   background-color: rgba(153, 147, 147, 0.79);
   background-blend-mode: overlay;
-  background-image: url("./img/bg/1.jpg");
+  background-image: url("assets/backgrounds/foodsBg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   text-align: center;
@@ -217,13 +222,6 @@ th {
 #category tr th {
   border-right: 0.1px solid rgb(175, 175, 175);
 }
-
-
-/* #category tr th:hover {
-  background-color: white;
-  color: #F15A29;
-  border: none;
-} */
 
 #ff {
   color: #f15a29;
@@ -342,12 +340,11 @@ th {
 /* subscribe */
 
 .subscribe {
-  background-image: url("./img/bg/3.jpg");
+  background-image: url("assets/backgrounds/subscribe.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 250px;
-  /* margin-bottom: 200px; */
 }
 
 .sub_center {
@@ -381,7 +378,6 @@ th {
   opacity: 1;
   padding-left: 20px;
 }
-
 
 /* footer */
 
