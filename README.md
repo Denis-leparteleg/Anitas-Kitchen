@@ -16,11 +16,8 @@ Week 2 Independent Project | Anitas Kitchen at Moringa School. Its a site where 
 
 * Live link to view the project <a href="https://wilsonkinyua.github.io/anitas-kitchen/">View Anitas Kitchen</a>
 ## Some Screenshots
-<img src="./img/screenshots/1.png" alt="screenshot" />
-<img src="./img/screenshots/2.png" alt="screenshot" />
-<img src="./img/screenshots/3.png" alt="screenshot" />
-<img src="./img/screenshots/4.png" alt="screenshot" />
-<img src="./img/screenshots/5.png" alt="screenshot" />
+<img src="./assets/Screenshots/Screenshot1.png" alt="screenshot" />
+
 
 ## Known Bugs
  So far so good there are no bugs related to this project 😎
